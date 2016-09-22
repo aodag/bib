@@ -1,0 +1,7 @@
+venv
+distlib-0.2.3
+libs
+wheelhouse
+simple
+*~
+*.py[co]
